@@ -35,7 +35,7 @@ const Products = () => {
       id: 1,
       name: "LOGITECH G102 LIGHTSYNC Mouse",
       price: "2,242 ₽",
-      image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=400&fit=crop&crop=center",
+      image: "https://ir.ozone.ru/s3/multimedia-1-c/c1000/6951861660.jpg?w=400&h=400&fit=crop&crop=center",
       description: "High-precision gaming mouse with customizable RGB lighting",
       features: [
         "8,000 DPI sensor",
@@ -48,7 +48,7 @@ const Products = () => {
       id: 2,
       name: "Epomaker x Aula F75 Black Mechanical Keyboard",
       price: "6,821 ₽",
-      image: "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400&h=400&fit=crop&crop=center",
+      image: "https://ae01.alicdn.com/kf/S7a736606a0de49caaf5956d09032775c2.jpg?w=400&h=400&fit=crop&crop=center",
       description: "Premium mechanical keyboard with hot-swappable switches",
       features: [
         "Hot-swappable switches",
@@ -59,9 +59,9 @@ const Products = () => {
     },
     {
       id: 3,
-      name: "XXL Gaming Loot Mouse Pad",
+      name: "Skypad Mousepad 3.0",
       price: "1,425 ₽",
-      image: "https://images.unsplash.com/photo-1559076235-b82f5c83d577?w=400&h=400&fit=crop&crop=center",
+      image: "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:320,cw:1920,ch:1080,q:80,w:1920/QHQFFaaqo296oKhb88hmwT.jpeg?w=400&h=400&fit=crop&crop=center",
       description: "Extended mouse pad for enhanced gaming experience",
       features: [
         "XXL size coverage",
